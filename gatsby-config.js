@@ -1,9 +1,11 @@
+const siteConfig = require('./config.js');
+
 module.exports = {
   siteMetadata: {
-    title: `Interviews by Smooper`,
-    description: `Interviews of amazing social media managers, digital marketers and awesome startups around the world!`,
-    author: `@smoopersocial`,
-    siteUrl: `https://interviews.smooper.com` //needed because 'location' is not available to facebook web scraper
+    title: siteConfig.title,
+    description: siteConfig.description,
+    author: siteConfig.author,
+    siteUrl: siteConfig.url //needed because 'location' is not available to facebook web scraper
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -42,14 +44,7 @@ module.exports = {
         // enable ip anonymization
         anonymize: true,
       },
-    },
-    {
-      resolve: `gatsby-plugin-facebook-pixel`,
-      options: {
-        // your facebook pixel id
-        pixelId: 'XXXXXXXXX',
-      },
-    },
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

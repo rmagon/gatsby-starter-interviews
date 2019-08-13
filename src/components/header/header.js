@@ -9,26 +9,10 @@ import './header.scss';
 type Props = {
   onClick?: Function,
 };
-type State = {
-  isActive: boolean,
-};
 
-class Header extends Component<Props, State> {
-  state: State = {
-    isActive: false,
-  };
-
-  // openTypeForm = () => {
-  //   window.typeform.open('CJige6');
-  // };
-
-  handleNavClick = () => {
-    this.setState({ isActive: !this.state.isActive });
-  };
+class Header extends Component<Props> {
 
   render() {
-    const { isActive } = this.state;
-
     return (
       <nav
         className="navbar is-fixed-top"

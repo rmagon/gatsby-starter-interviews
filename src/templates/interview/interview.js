@@ -80,6 +80,7 @@ const Interview = ({ data, location }) => {
                   key={i}
                   className="button is-primary is-outlined"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   {item.displayText}
                 </a>

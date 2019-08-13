@@ -1,5 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
 import './share.scss';
 
@@ -20,7 +19,7 @@ function Share({ title, pageURL}) {
       );
     
       const SocialShare = ({icon, url}) => {
-        return <a target="_blank" href={url} 
+        return <a target="_blank" rel="noopener noreferrer" href={url} 
         onClick={() => {
             window.open(url, '', 'width=550,height=435');
             return false;

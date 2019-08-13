@@ -1,7 +1,5 @@
 // @flow
 import React from 'react';
-import { Link } from 'gatsby';
-import logo from '../../images/logo-smooper.png';
 
 import './footer.scss';
 
