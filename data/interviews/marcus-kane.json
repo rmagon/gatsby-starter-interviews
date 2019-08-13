@@ -1,0 +1,49 @@
+ {
+    "slug": "marcus-kane",
+    "name": "Marcus Kane",
+    "title": "What is great about entrepreneurship is that entrepreneurs create the tangible from the intangible.",
+    "timestamp": 1550575179154,
+    "avatar": "../images/marcus-kane.png",
+    "position": "Founder & CEO - Arc Software",
+    "answers": [
+        {
+            "questionId": "1",
+            "answer": "I founded Arc Software, an end to end software development company after working for 25 years in the software industry."
+        },
+        {
+            "questionId": "2",
+            "answer": "Making sure our customer's love our work completely."
+        },
+        {
+            "questionId": "3",
+            "answer": "Instagram works really well because all our clients are on Instagram."
+        },
+        {
+            "questionId": "4",
+            "answer": "Making an inclusive action plan following the basics principles Segmenting, Targeting, Positioning."
+        },
+        {
+            "questionId": "5",
+            "answer": "Measuring the effectiveness of strategies and their implementation at all levels."
+        },
+        {
+            "questionId": "8",
+            "answer": "Don't be afraid to experiment and take risks in whatever work you do."
+        },
+        {
+            "questionId": "9",
+            "answer": "Our key metric is just happiness. Our customer's happiness and employees happiness, because that's the end goal of life, right? To be happy."
+        },
+        {
+            "questionId": "10",
+            "answer": "My biggest obstacle is connecting with B2B clients, because the gestation period is a lot."
+        }
+    ],
+    "links": [
+        {
+            "displayText": "Visit Clarke Models Inc",
+            "url": "#"
+        }
+    ]
+
+}

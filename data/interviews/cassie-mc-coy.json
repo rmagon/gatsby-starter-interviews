@@ -1,0 +1,45 @@
+{
+    "slug": "cassie-mc-coy",
+    "name": "Cassie McCoy",
+    "title": "Success is no accident. It is hard work, perseverance, learning, studying, & sacrifice.",
+    "timestamp": 1559935658000,
+    "avatar": "../images/cassie-mc-coy.png",
+    "position": "Entrepreneur, Dreamer, Developer",
+    "answers": [
+        {
+            "questionId": "1",
+            "answer": "Worked my way up from a non CS background to being the founder of my own company."
+        },
+        {
+            "questionId": "2",
+            "answer": "I'll soon be expanding to other countries and I'm really excited about that!"
+        },
+        {
+            "questionId": "3",
+            "answer": "LinkedIn works best to build contacts with other like minded individuals, and Facebook works best for paid advertising."
+        },
+        {
+            "questionId": "5",
+            "answer": "I'm learning AI and trying to see if it's fit for my company and if I need to hire an AI Engineer."
+        },
+        {
+            "questionId": "9",
+            "answer": "I'm measuring my company's success instead of my own, because I'm only successful as much as my company."
+        },
+        {
+            "questionId": "10",
+            "answer": "My biggest goal is to expand to atleast 5-10 different companies and to make sure that all my employees are as successful as the company."
+        }
+    ],
+    "links": [
+        {
+            "displayText": "Cassie's Twitter",
+            "url": "#"
+        },
+        {
+            "displayText": "Email",
+            "url": "#"
+        }
+    ]
+
+}

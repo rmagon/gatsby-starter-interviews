@@ -1,0 +1,49 @@
+{
+    "slug": "clarke-griffin",
+    "name": "Clarke Griffin",
+    "title": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "timestamp": 1559086243000,
+    "avatar": "../images/clarke-griffin.png",
+    "position": "Founder - Clarke Models Inc",
+    "answers": [
+        {
+            "questionId": "1",
+            "answer": "I founded Clarke Management, an end to end Fashion Management Agency after working for 5 years in the fashion industry as a model."
+        },
+        {
+            "questionId": "2",
+            "answer": "Exceeding expectations of our customers in terms of brand building, while making sure our models love their work."
+        },
+        {
+            "questionId": "3",
+            "answer": "Instagram works really well because all our clients and models are on Instagram. But it usually depends on the type of project we are working on and the goal we want to achieve."
+        },
+        {
+            "questionId": "4",
+            "answer": "Making an inclusive action plan following the basics principles Segmenting, Targeting, Positioning."
+        },
+        {
+            "questionId": "5",
+            "answer": "Measuring the effectiveness of strategies and their implementation at all levels."
+        },
+        {
+            "questionId": "8",
+            "answer": "Don't be afraid to experiment and take risks in whatever work you do."
+        },
+        {
+            "questionId": "9",
+            "answer": "Return on Investment, because profitability gives you more flexibility to experiment."
+        },
+        {
+            "questionId": "10",
+            "answer": "My biggest obstacle is making a profit, even if we have 200% growth in a quarter, keeping afloat is always a problem."
+        }
+    ],
+    "links": [
+        {
+            "displayText": "Visit Clarke Models Inc",
+            "url": "#"
+        }
+    ]
+
+}

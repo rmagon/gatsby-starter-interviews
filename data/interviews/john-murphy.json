@@ -1,0 +1,44 @@
+{
+  "slug": "john-murphy",
+  "name": "John Murphy",
+  "title": "Entrepreneurship is all about deferred gratification.",
+  "timestamp": 1560595179154,
+  "avatar": "../images/john-murphy.png",
+  "position": "Founder, Hello World",
+  "answers": [
+    {
+      "questionId": "1",
+      "answer": "CEO of Hello World. Hello World was just an idea which I pitched at the World Convention in 2017. I won the first prize which motivated me to execute my plan. Today I have impacted more than 1 million developers through my startup."
+    },
+    {
+      "questionId": "2",
+      "answer": "In next few weeks, Hello World would be crossing the mark of 60m+ User base."
+    },
+    {
+      "questionId": "3",
+      "answer": "I haven't used social media for my product at all. But now I want to start seeing the benefits."
+    },
+    {
+      "questionId": "4",
+      "answer": "Word of mouth has been the best for me, no social media platform can come close to word of mouth."
+    },
+    {
+      "questionId": "5",
+      "answer": "Currently I am learning about Instagram as a tool for my business. Let's see where it goes."
+    },
+    {
+      "questionId": "10",
+      "answer": "Reaching out to masses has always been a problem."
+    }
+  ],
+  "links": [
+    {
+      "displayText": "Murphy's LinkedIn",
+      "url": "#"
+    },
+    {
+      "displayText": "Hello World",
+      "url": "#"
+    }
+  ]
+}

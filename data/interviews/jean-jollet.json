@@ -1,0 +1,40 @@
+{
+  "slug": "jean-jollet",
+  "name": "Jean Jollet",
+  "title": "If you feel comfortable and cool in particular clothes, then that is fashion.",
+  "timestamp": 1560595179153,
+  "avatar": "../images/jean-jollet.png",
+  "position": "Director, Jean & John Tshirts",
+  "answers": [
+    {
+      "questionId": "1",
+      "answer": "I started as a saleswoman at a fashion retail store. Worked hard day & night, did not give up, and now have my own company."
+    },
+    {
+      "questionId": "2",
+      "answer": "We're launching a complete revamped e-commerce platform soon which is projected to double our growth rate."
+    },
+    {
+      "questionId": "3",
+      "answer": "We use everything - Facebook, Instagram, Pinterest, Youtube. Influencer Marketing has been the best for our brand."
+    },
+    {
+      "questionId": "4",
+      "answer": "Quality of product, if the quality is good, no marketing technique can do you a bigger favour."
+    },
+    {
+      "questionId": "6",
+      "answer": "Affiliate Marketing"
+    },
+    {
+      "questionId": "9",
+      "answer": "We always measure growth. Because once a company stops growing it starts dying."
+    }
+  ],
+  "links": [
+    {
+      "displayText": "Jeans's LinkedIn",
+      "url": "#"
+    }
+  ]
+}

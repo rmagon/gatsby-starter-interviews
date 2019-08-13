@@ -1,0 +1,34 @@
+{
+    "slug": "eric-jackson",
+    "name": "Eric Jackson",
+    "title": "The truth is that entrepreneurship is more like a roller coaster ride than a cruise.",
+    "timestamp": 1559318664000,
+    "avatar": "../images/eric-jackson.png",
+    "position": "Founder of World Economic Forum",
+    "answers": [
+        {
+            "questionId": "1",
+            "answer": "I'm the Founder of World Economic Forum. Working for more than a decade in the industry, I realized my passion to do more which made me launch two startups that failed miserably. I finally found success when World Economic Forum grew to 100k+ visitors within a month."
+        },
+        {
+            "questionId": "2",
+            "answer": "We're doing our first local event for economics next month & I'm really excited as well as nervous for the event."
+        },
+        {
+            "questionId": "3",
+            "answer": "Facebook has always worked for me. It is the fastest, oldest and easiest platform."
+        },
+        {
+            "questionId": "4",
+            "answer": "Flyers and billboards have proved to give us great ROI."
+        },
+        {
+            "questionId": "10",
+            "answer": "Being an economic forum, we often come across extremely difficult situations with big companies. We sometimes do not have the expertise required and need to go head hunting for the right expert."
+        }
+    ],
+    "links": [
+
+    ]
+
+}
