@@ -19,7 +19,6 @@
 + Minimalist Design.
 + 100% Response
 + Complete separation of data & code.
-+ [Netlify CMS](https://www.netlifycms.org) support.
 + [Google Analytics](https://analytics.google.com) support.
 + [Facebook Pixel](https://www.facebook.com/business/help/952192354843755) support
 + View the [demo](https://vigorous-mirzakhani-98ba6c.netlify.com/) or view it [live](https://interviews.smooper.com)
@@ -34,7 +33,7 @@ View the advanced performance test at [WebPageTest](https://www.webpagetest.org/
 Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 
 ```sh
-# Create a new Gatsby site using the Lumen starter
+# Create a new Gatsby site using the  gatsby-starter-interviews
 gatsby new interviews https://github.com/rmagon/gatsby-starter-interviews
 ```
 
@@ -57,7 +56,7 @@ Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is
 1. Open the `data` directory in your code editor of choice.
 2. Edit `questions.json` and add a new element.
 3. Save your changes.
-4. The question will only appear when we use the same questionId in one of the interviews
++ Note: The question will only appear when we use the same `questionId` in one of the interviews
 
 #### To add more interviews
 1. Open the `data/interviews` directory in your code editor of choice.
@@ -67,7 +66,7 @@ Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is
 
 ## Deploy with Netlify
 
-[Netlify](https://netlify.com) CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
+The project can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/rmagon/gatsby-starter-interviews" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
